@@ -39,3 +39,4 @@ def sendInvitation(event_name, *guest_names, **details):
 
 
 sendInvitation("Christmas Party", 'gabe', 'gabrielle', 'mom', 'dad', house = 'Mayfield House', address = '3691 County Road 326', time = '5:00pm')
+sendInvitation("Party 2", "Gabriel", 'mateo', 'ezra', 'gabrielle', 'james', 'kathy', time = '5:00 pm')
