@@ -23,9 +23,10 @@ def pass_info(password):
         for char in string:
             if char.isdigit():
                 count += 1
-    pass_nums = count
+    pass_nums = count      
     print(
-        f"The password you entered has {pass_length} characters and {pass_nums} numbers containted in it."
+        f"The password you entered has {pass_length} characters and {
+            pass_nums} numbers contained in it."
     )
 
 
