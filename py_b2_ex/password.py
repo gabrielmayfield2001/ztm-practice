@@ -14,8 +14,6 @@ def pass_validation():
             print("The password does not meet the criteria, try again")
     print("valid password entered: ", password)
     return password
-
-
 def pass_info(password):
     pass_length = len(password[0])
     count = 0
