@@ -2,6 +2,7 @@ class User:
 
     def __init__(self, email):
         self.email = email
+        print('init Completed')
     def sign_in(self):
         print('logged in')
 
@@ -17,6 +18,5 @@ class Wizard(User):
 
 
 wizard1 = Wizard('Merlin', 50, 'merlin@gmail.com')
-
-print(wizard1.email)
+print(dir(wizard1.email))
 
