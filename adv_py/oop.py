@@ -7,7 +7,7 @@ class PlayerCharacter:
     membership = True
 
     def __init__(self, name='anonymous', age=0):
-        if age > 18:`fk`
+        if age > 18:
             self.name = name  # attributes
             self.age = age
 
