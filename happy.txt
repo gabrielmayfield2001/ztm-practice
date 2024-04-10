@@ -1,0 +1,2 @@
+This is being addedhis is second line of happy.txt
+this is the third line of happy.txt

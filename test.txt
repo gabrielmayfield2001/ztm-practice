@@ -1,4 +1,1 @@
-hi my name is gabe 
-:)
-hi how are you 
-last line in file 
+GabrielGabrielabcabchey its mehey its mehey its mehey its mewriting to test.txt!πwriting to test.txt!πThis is coming from read_write_buffer.py
